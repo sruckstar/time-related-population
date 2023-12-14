@@ -6,7 +6,6 @@ At the moment this mod is not compatible with my other mod - Limited Population.
 # Requirements
 - ScriptHookV
 - ScriptHookDotNet
-- LemonUI
 
 # Installation
 1. Download ScriptHookV
